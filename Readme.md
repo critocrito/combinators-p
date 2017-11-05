@@ -1,5 +1,9 @@
 # `combinators-p`
 
+This package was renamed to **dashP** and is now deprecated in [favor of
+it](https://www.npmjs.com/package/dashp). Find the new repository
+[here](https://github.com/critocrito/dashp).
+
 [![Build Status](https://travis-ci.org/critocrito/combinators-p.svg?branch=master)](https://travis-ci.org/critocrito/combinators-p)
 
 `combinators-p` allows to program with
